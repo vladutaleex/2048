@@ -1,1 +1,3 @@
-[Demo Here](https://vladutaleex.github.io/2048/)
+#2048 interractive game
+
+[Demo](https://vladutaleex.github.io/2048/)
