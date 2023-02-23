@@ -1,1 +1,1 @@
-[Demo Here] (https://vladutaleex.github.io/2048/)
+[Demo Here](https://vladutaleex.github.io/2048/)
